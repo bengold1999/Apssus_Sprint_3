@@ -1,6 +1,6 @@
 # Appsus
 
-**Appsus** brings your favorite apps together in a single, streamlined application. Utilizing a combination of React and Node.js, it features a collection of mini-apps including MisterEmail, MissKeep, and MissBooks, each offering unique functionalities within a unified interface.
+**Appsus** brings your favorite apps together in a single, streamlined application. Utilizing a combination of React, it features a collection of mini-apps including MisterEmail, MissKeep, and MissBooks, each offering unique functionalities within a unified interface.
 
 ## Features
 
